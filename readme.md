@@ -28,4 +28,4 @@
   - Connect the website's contact form to info@altexroofingservices.com.
 
 ## Nov Update 
-![Homepage](image.jpg)
+
