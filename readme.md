@@ -1,6 +1,6 @@
 # Meeting Notes - [Sep 2023]
 
-## Project: Full Site Facelift using wordpress
+## Project: Full Site Facelift with Wordpress
 
 ### Main Takeaways
 - **Homepage Changes:**
