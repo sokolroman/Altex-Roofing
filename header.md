@@ -1,5 +1,5 @@
 # Header Section
-
+![Homepage](image.jpg)
 ## Company Logo
 - Place the company logo at the top left of the header. Make sure it's clear and instantly recognizable.
 
