@@ -27,3 +27,5 @@
   - Redesign the review section to show top reviews and testimonials (auto-populate with the best reviews).
   - Connect the website's contact form to info@altexroofingservices.com.
 
+## Nov Update 
+![Homepage](image.jpg)
